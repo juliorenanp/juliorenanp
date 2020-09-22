@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**juliorenanp/juliorenanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 🔭 I’m currently working on Santander Bank...
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliorspinheiros/)](https://www.linkedin.com/in/juliorspinheiros/)
 
 - ⚡ Fun fact: Give me a hi-five.
--->
+
