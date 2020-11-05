@@ -7,7 +7,7 @@
 📫 How to reach me: 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juliorenanp)](https://github.com/juliorenanp)
-[![Linkedin Badge](https://img.shields.io/badge/-Julio%20 Pinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliorspinheiro/)](https://www.linkedin.com/in/juliorspinheiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-Julio%20Pinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliorspinheiro/)](https://www.linkedin.com/in/juliorspinheiro/)
 
 
 ## Techs 👾
