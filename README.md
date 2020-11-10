@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😁 I’m currently learning: Angular, Node, Docker, Typescript and TDD. 👌
+😁 I’m currently learning: Node, Docker, Typescript and TDD. 👌
 
 💬 Ask me about: .Net, Animes, Music and lifestyle. 😉
 
