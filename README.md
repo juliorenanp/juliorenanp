@@ -1,7 +1,3 @@
-<p align="center">
-  .NET | JavaScript | Angular | SQL | C# | Ext.js and Ext .NET | Bootstrap | Git
-</p>
-
 <p align="center">  
   <a
     href="https://web.whatsapp.com/send?phone=+5511983195892" 
