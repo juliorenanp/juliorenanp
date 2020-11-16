@@ -57,7 +57,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;📚 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Leadership, Innovation and Management 3.0</b>
 </p>
 <p align="center">
-  ⛩  Life is about <b>MOMENTS.</b> &nbsp; 🎯 Focused in <b>Angular</b>, <b>C#</b> and <b>Node.js</b>
+ &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>MOMENTS.</b> &nbsp; 🎯 Focused in <b>Angular</b>, <b>C#</b> and <b>Node.js</b>
 </p>
 
 
