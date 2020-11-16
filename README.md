@@ -79,4 +79,4 @@ Here some techologies that I work or study about:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
-![VSCode](https://img.shields.io/badge/-C#-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CSharp](https://img.shields.io/badge/-C%23-blue)
