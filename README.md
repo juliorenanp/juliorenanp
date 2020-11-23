@@ -44,7 +44,7 @@
 </p>
 
 <h4 align="center">
-  Hey, I'm Julio! 👋
+  Hi, I'm Julio! 👋
 </h4>
 <p align="center">
   🌍 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨‍💻 Software Consultant
