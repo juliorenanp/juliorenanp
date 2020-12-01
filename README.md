@@ -57,7 +57,7 @@
 </p>
 
 
-## Techs 👾👓
+## Techs 👾👓🍕
 Here some techologies that I work or study:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
