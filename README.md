@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Outlook-007ACC?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/juliorenanp" 
+    href="https://www.linkedin.com/in/juliorspinheiro" 
     alt="LinkedIn"
     target="blank"
   >
