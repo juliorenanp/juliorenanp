@@ -44,7 +44,7 @@
 </p>
 
 <h4 align="center">
-  Hi, I'm Julio! 👋
+  Hi, I'm Julio 👻! 👋
 </h4>
 <p align="center">
   🌍 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨‍💻 Software Consultant
@@ -57,7 +57,7 @@
 </p>
 
 
-## Techs 👾👓🍕
+## Techs 👓
 Here some techologies that I work or study:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
