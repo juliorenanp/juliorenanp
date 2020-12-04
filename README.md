@@ -1,3 +1,16 @@
+<h4 align="center">
+  Hi, I'm Julio! 👻
+</h4>
+<p align="center">
+  🌍 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨‍💻 Software Consultant
+</p>
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Leadership, Innovation and Management 3.0</b>
+</p>
+<p align="center">
+ &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>MOMENTS.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>C#</b> and <b>Node.js</b>
+</p>
+
 <p align="center">  
   <a
     href="https://web.whatsapp.com/send?phone=+5511983195892" 
@@ -43,18 +56,7 @@
   </a>
 </p>
 
-<h4 align="center">
-  Hi, I'm Julio! 👻
-</h4>
-<p align="center">
-  🌍 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp; 👨‍💻 Software Consultant
-</p>
-<p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Leadership, Innovation and Management 3.0</b>
-</p>
-<p align="center">
- &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>MOMENTS.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>C#</b> and <b>Node.js</b>
-</p>
+
 
 
 ## Techs 👓
