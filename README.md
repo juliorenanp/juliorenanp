@@ -76,8 +76,9 @@ Here some techologies that I work or study:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-C%23-blue)
+![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
+
 
 ## Github Status 👨‍💻
 
