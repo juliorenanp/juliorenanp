@@ -5,7 +5,7 @@
   🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currenty an Software Developer.
 </p>
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development.</b> 🎓 Postgraduate in <b>Leadership, Innovation and Management 3.0</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Leadership, Innovation and Management 3.0</b>
 </p>
 <p align="center">
  &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>MOMENTS.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>.NET</b> and <b>Node.js</b>
@@ -60,7 +60,7 @@
 
 
 ## Techs 👓
-Here some techologies that I work or study:
+Here some techologies that I work or study about:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
