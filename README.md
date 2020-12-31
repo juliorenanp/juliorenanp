@@ -99,3 +99,5 @@ Here some techologies that I work or study about:
 </p>
 
 
+
+did u know? console.log('%c BLUEEEEEEE text!', 'background: blue');
