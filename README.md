@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Leadership, Innovation and Management</b>
 </p>
 <p align="center">
- &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>MOMENTS.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>.NET</b> and <b>Node.js</b>
+ &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>moments.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>.NET</b> and <b>Node.js</b>
 </p>
 
 <p align="center">   
