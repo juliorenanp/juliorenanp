@@ -12,13 +12,7 @@
 </p>
 
 <p align="center">  
-  <a
-    href="https://web.whatsapp.com/send?phone=+5511983195892" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
+ 
   <a
     href="mailto:juliorenan@live.com" 
     alt="Outlook"
