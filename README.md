@@ -73,7 +73,7 @@ Here some techologies that I work or study about:
 ![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 
-## Github Status
+## Github Status ⚡
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
