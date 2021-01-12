@@ -90,7 +90,3 @@ Here some techologies that I work or study about:
     />
   </a>
 </p>
-
-
-
-did u know? console.log('%c BLUEEEEEEE text!', 'background: blue');
