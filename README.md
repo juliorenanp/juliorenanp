@@ -11,8 +11,7 @@
  &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>MOMENTS.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>.NET</b> and <b>Node.js</b>
 </p>
 
-<p align="center">  
- 
+<p align="center">   
   <a
     href="mailto:juliorenan@live.com" 
     alt="Outlook"
