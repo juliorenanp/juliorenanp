@@ -1,6 +1,6 @@
 <h4 align="center">
-  Hey there, I'm Julio.
-</h4>
+  Hey there, I'm Julio. 
+</h4> 
 <p align="center">
   🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currenty an Software Developer.
 </p>
