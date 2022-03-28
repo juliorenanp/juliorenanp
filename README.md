@@ -1,5 +1,5 @@
 <h4 align="center">
-  Hey there, I'm Julio.  
+  Hey there, I'm Julio.
 </h4>
 <p align="center">
   🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currenty an Software Developer. 
@@ -73,7 +73,7 @@ Here some techologies that I work or study about:
 ![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 
-## Github Status ⚡
+## Github Status ⚡😎
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliorenanp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
