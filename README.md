@@ -81,4 +81,3 @@ Here some techologies that I work or study about:
 </p>
 
 
-[![Snake animation](https://github.com/juliorenanp/juliorenanp/blob/output/github-contribution-grid-snake.svg)](url)
