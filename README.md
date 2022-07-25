@@ -1,5 +1,5 @@
 <h4 align="center">
-  Hey there, my name is Julio 😃
+  Hey there, my name is Julio
 </h4>
 <p align="center">
   🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currenty an Software Developer. 
