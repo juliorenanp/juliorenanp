@@ -71,13 +71,3 @@ Here some techologies that I work or study about:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![CSharp](https://img.shields.io/badge/-C%23-blue)
 ![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-
-## Github Status ⚡😎
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliorenanp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorenanp&layout=compact&langs_count=16&theme=dracula"/>
-</p>
-
-
