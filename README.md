@@ -13,42 +13,13 @@
 
 <p align="center">   
   <a
-    href="mailto:juliorenan@live.com" 
-    alt="Outlook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Outlook-007ACC?style=flat&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a
     href="https://www.linkedin.com/in/juliorspinheiro" 
     alt="LinkedIn"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=Linkedin&logoColor=white" />
   </a>
-  <a
-    href="https://github.com/juliorenanp"
-    alt="GitHub"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" />
-  </a>
-  <a
-    href="https://www.facebook.com/julio.renan.77"" 
-    alt="Facebook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Facebook-007ACC?style=flat&logo=Facebook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/juliorenanp" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-563D7C?style=flat&logo=Instagram&logoColor=white" />
-  </a>
 </p>
-
 
 
 
