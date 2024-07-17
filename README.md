@@ -11,17 +11,6 @@
  &nbsp; &nbsp;&nbsp;&nbsp;🤘  Life is about <b>moments.</b> &nbsp; 🛠 Focused in <b>Angular</b>, <b>React</b>, <b>.NET</b> and <b>Node.js</b>
 </p>
 
-<p align="center">   
-  <a
-    href="https://www.linkedin.com/in/juliorspinheiro" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 
 ## Techs 👓
 Here some techologies that I work or study about:
